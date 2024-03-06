@@ -1,16 +1,38 @@
-### Hi there 👋
 
-<!--
-**yashNaiya/yashNaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there, I'm Yash!
 
-Here are some ideas to get you started:
+Welcome to my coding wonderland! 👨‍💻✨ I'm a passionate software developer with expertise in a variety of technologies. From crafting sleek web applications using ReactJs, NodeJs, and MongoDB to diving deep into the world of .NET, C++, and Java – I love building things that make a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Tools
+
+### Frontend
+- ReactJs
+- HTML, CSS, JavaScript
+- Figma (I turn designs into interactive magic!)
+
+### Backend
+- NodeJs
+- Express
+- MongoDB
+- .NET (because, why not?)
+
+### Database
+- MongoDB
+- SQL
+
+### DevOps & Testing
+- Postman (API testing superhero)
+
+### Languages
+- C++
+- Java
+
+
+## 🌱 Currently Learning
+Exploring the realms of Web3. Always excited to level up my skills and embrace new challenges.
+
+## 📫 Let's Connect!
+- LinkedIn: [yashnaiya](https://www.linkedin.com/in/yashnaiya/)
+- Twitter: [@yashdnaiya](https://twitter.com/yashdnaiya)
+
+Feel free to explore my repositories and don't hesitate to reach out if you have questions or just want to geek out about code. Happy coding! 🚀
