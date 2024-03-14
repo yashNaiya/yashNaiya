@@ -1,7 +1,7 @@
 
 # 👋 Hey there, I'm Yash!
 
-Welcome to my coding wonderland! 👨‍💻✨ I'm a passionate software developer with expertise in a variety of technologies. From crafting sleek web applications using ReactJs, NodeJs, and MongoDB to diving deep into the world of .NET, C++, and Java – I love building things that make a difference.
+Welcome to my coding wonderland! 👨‍💻✨ I'm a passionate software developer with expertise in a variety of technologies. From crafting sleek web applications using ReactJs, NodeJs, and MongoDB to diving deep into the world of NextJs, C++, and Javascript – I love building things that make a difference.
 
 ## 🚀 Technologies & Tools
 
